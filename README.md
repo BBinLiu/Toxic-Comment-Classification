@@ -8,7 +8,7 @@ To run the program, enter the following command while in the folder â€˜Scriptsâ€
 
 A more detailed explaination is in the report.
 
-If there's any problem opening the interface, please dont't hesitate to contact us at:
+If there's any problem opening the interface, please contact us at:
 
-Bin Liu - binliu@brandeis.edu
+Bin Liu - binliu@brandeis.edu or
 Shuoge Shen - shuogeshen@brandeis.edu
