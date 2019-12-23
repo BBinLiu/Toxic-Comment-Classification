@@ -7,3 +7,8 @@ To run the program, enter the following command while in the folder â€˜Scriptsâ€
   pythonw main.py
 
 A more detailed explaination is in the report.
+
+If there's any problem opening the interface, please dont't hesitate to contact us at:
+
+Bin Liu - binliu@brandeis.edu
+Shuoge Shen - shuogeshen@brandeis.edu
